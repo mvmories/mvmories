@@ -14,8 +14,7 @@ transport. Founded and exited two companies alongside full-time work.
 - Run a local agent development environment on a Mac Studio: open-weight model,
   sub-agents per stage, reachable over Tailscale, and holding no credential that
   could push. [How it works](https://miguelvilhena.com/factory).
-- Rebuilt [miguelvilhena.com](https://miguelvilhena.com) into
-  something I'm proud of. Source is pinned below.
+- Rebuilt [miguelvilhena.com](https://miguelvilhena.com). Source is pinned below.
 
 [Site](https://miguelvilhena.com) &middot;
 [CV](https://miguelvilhena.com/cv.pdf) &middot;
