@@ -1,10 +1,12 @@
-### Miguel Vilhena
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.png">
+  <img alt="Miguel Vilhena, frontend engineer, Amsterdam. I take products from a blank page to 30 countries." src="assets/banner-light.png" width="100%">
+</picture>
 
-**Frontend engineer at IKEA, fullstack when it counts, deep in AI.** Amsterdam.
+**Frontend engineer at IKEA, fullstack when it counts, deep in AI.**
 
-I take products from a blank page to 30 countries. I joined Rewards from IKEA
-Family as a one-country pilot and have carried it through every market launch
-since: the first points-earning mechanic in IKEA Family's forty-year history,
+I joined Rewards from IKEA Family as a one-country pilot and have carried it
+through every market launch since: the first points-earning mechanic in IKEA Family's forty-year history,
 now live to a base of over 200 million members.
 
 Eleven years across loyalty, enterprise networking, healthcare and public
